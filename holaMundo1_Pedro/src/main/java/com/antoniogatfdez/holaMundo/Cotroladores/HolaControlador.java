@@ -14,6 +14,6 @@ public class HolaControlador {
                               String nombre, Model modelo)
     {
         modelo.addAttribute("nombre", nombre);
-        return "hola";
+        return "hola";.
     }
 }
